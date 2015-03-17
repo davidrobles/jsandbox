@@ -2,437 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d0964ec-36a3-4b3c-8855-9e08a4d70e44" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/players/AMAF.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/players/mcts/amaf/AMAFNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/core/AbstractGame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/All.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/AllExperiments.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/players/minimax/AlphaBeta.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/gui/BControllerTimer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/BasicTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/gui/BoardApp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/core/BoardGame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Breakthrough/src/net/davidrobles/mauler/breakthrough/Breakthrough.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Breakthrough/src/net/davidrobles/mauler/breakthrough/BreakthroughTableModel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Breakthrough/test/net/davidrobles/mauler/breakthrough/BreakthroughTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Breakthrough/src/net/davidrobles/mauler/breakthrough/BreakthroughView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Havannah/src/net/davidrobles/mauler/havannah/Cell.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Havannah/src/net/davidrobles/mauler/havannah/CellWrapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ConnectFour/src/net/davidrobles/mauler/connect4/Connect4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ConnectFour/test/net/davidrobles/mauler/connect4/Connect4Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ReinforcementLearning/src/net/davidrobles/rl/algorithms/DPPolicyIteration.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Utils/src/net/davidrobles/util/DRFrame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Utils/src/net/davidrobles/util/DRMarkdown.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/players/DRPlot.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Utils/src/net/davidrobles/util/DRUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/players/minimax/DepthLimitedSearch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/core/DummyGame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/players/EpsilonGreedy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ReinforcementLearning/src/net/davidrobles/rl/policies/EpsilonGreedy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/players/EvalFunc.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/OthelloPlay/src/net/davidrobles/mauler/othello/ef/EvalFuncFitness.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/TicTacToePlay/src/net/davidrobles/shogun/tictactoe/ExecutorTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/Experiments.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ReinforcementLearning/src/net/davidrobles/rl/algorithms/FirstVisit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ReinforcementLearning/src/net/davidrobles/rl/algorithms/FirstVisitMC.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/ga/FitProp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/PlanetWars/src/net/davidrobles/mauler/planetwars/Fleet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/ga/GANTuples.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/test/net/davidrobles/thesis/othello/ch4/ga/GANTuplesTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/GridWorld/src/net/davidrobles/gridworld/GWAction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/GridWorld/src/net/davidrobles/gridworld/GWRun.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/GridWorldPlay/src/net/davidrobles/rl/GWRun.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/GridWorld/src/net/davidrobles/gridworld/GWState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/GridWorld/src/net/davidrobles/gridworld/view/GWVView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/GridWorld/src/net/davidrobles/gridworld/view/GWViewQValues.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/core/Game.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/core/GameExecutor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/gui/GameFrame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/test/net/davidrobles/mauler/core/GameTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/core/util/GamesUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/players/mcts/GraphvizMCTSObserver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/TicTacToePlay/src/net/davidrobles/shogun/tictactoe/GraphvizRight.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/players/GreedyPlayer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ReinforcementLearning/src/net/davidrobles/rl/policies/GreedyPolicy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/players/mcts/tree/GreedyTreePolicy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/GridWorld/src/net/davidrobles/gridworld/GridWorldEnv.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/GridWorld/src/net/davidrobles/gridworld/GridWorldMDP.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/GridWorld/src/net/davidrobles/gridworld/view/GridWorldView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Havannah/src/net/davidrobles/mauler/havannah/HCell.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Havannah/src/net/davidrobles/mauler/havannah/Havannah.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/HavannahPlay/src/net/davidrobles/mauler/havannah/HavannahRun.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Havannah/src/net/davidrobles/mauler/havannah/HavannahTableModel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Havannah/src/net/davidrobles/mauler/havannah/HavannahUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Havannah/src/net/davidrobles/mauler/havannah/HavannahView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/core/IncrementalGame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/core/InstantiablePlayer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/players/minimax/IterDeep.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/LinesOfAction/src/net/davidrobles/mauler/loa/LOA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/LinesOfAction/src/net/davidrobles/mauler/loa/LOARun.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/LinesOfActionPlay/src/net/davidrobles/mauler/loa/LOARun.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/LinesOfAction/src/net/davidrobles/mauler/loa/LOATableModel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/LinesOfAction/test/net/davidrobles/mauler/loa/LOATest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/LinesOfAction/src/net/davidrobles/mauler/loa/LOAView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ReinforcementLearning/src/net/davidrobles/rl/Learner.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/OthelloPlay/src/net/davidrobles/mauler/othello/LinearEF.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/LogistelloPatterns.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/TicTacToePlay/src/net/davidrobles/shogun/tictactoe/MCFailFinder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/players/mcts/MCTS.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/MCTSExperiments.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/players/mcts/enh/MCTSNoRollout.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/players/mcts/MCTSNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/players/mcts/MCTSObserver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/MCTSParallelTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/players/mcts/enh/MCTSPrior.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch7/MCTSReplacingDefault.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/players/mcts/parallel/MCTSRootP.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/MCTS_WPC.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/MCvsMCTS.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ReinforcementLearning/src/net/davidrobles/rl/MDP.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ReinforcementLearning/src/net/davidrobles/rl/MDPObserver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ReinforcementLearning/src/net/davidrobles/rl/MDPUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/core/Match.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/core/MatchController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/gui/MatchControllerButtonsView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/core/MatchControllerObserver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/gui/MatchControllerSliderView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/gui/MatchControllerTableView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch5/MctsExploration.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/players/minimax/Minimax.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/players/mc/MonteCarlo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/core/MoveObservable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/core/MoveObserver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/players/minimax/MoveScore.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/PlanetWars/src/net/davidrobles/mauler/planetwars/MyBot.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/PlanetWars/src/net/davidrobles/mauler/planetwars/MyBot2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/PlanetWars/src/net/davidrobles/mauler/planetwars/MyBot3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/OthelloPlay/src/net/davidrobles/mauler/othello/ef/ntuples/NTDirection.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/OthelloPlay/src/net/davidrobles/mauler/othello/ef/ntuples/NTReflection.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/NTSComparisons.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/NTSLearning.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/NTSSpeedTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/NTSinMCTS.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/OthelloPlay/src/net/davidrobles/mauler/othello/ef/ntuples/NTTransform.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/OthelloPlay/src/net/davidrobles/mauler/othello/ef/ntuples/NTUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/OthelloPlay/src/net/davidrobles/mauler/othello/ef/ntuples/NTuple.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/OthelloPlay/src/net/davidrobles/mauler/othello/ef/ntuples/NTupleSystem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/players/minimax/Negamax.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/OptimalPriorKnowledge.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Othello/src/net/davidrobles/mauler/othello/Othello.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/OthelloPlay/src/net/davidrobles/mauler/othello/OthelloGUI.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/OthelloPlay/src/net/davidrobles/mauler/othello/OthelloRun.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Othello/src/net/davidrobles/mauler/othello/OthelloTableModel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Othello/test/net/davidrobles/mauler/othello/OthelloTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Othello/src/net/davidrobles/mauler/othello/OthelloUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/OthelloVF.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Othello/src/net/davidrobles/mauler/othello/OthelloView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/core/Outcome.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/PlanetWars/src/net/davidrobles/mauler/planetwars/PWAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/PlanetWars/src/net/davidrobles/mauler/planetwars/PWBot.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/PlanetWars/src/net/davidrobles/mauler/planetwars/PWBot23.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/PlanetWars/src/net/davidrobles/mauler/planetwars/PWBotDR.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/PlanetWars/src/net/davidrobles/mauler/planetwars/PWBotDef.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/PlanetWars/src/net/davidrobles/mauler/planetwars/PWBotHC.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/PlanetWars/src/net/davidrobles/mauler/planetwars/PWBotMC.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/PlanetWars/src/net/davidrobles/mauler/planetwars/PWBotTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/PlanetWars/src/net/davidrobles/mauler/planetwars/PWBotWanstein.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/PlanetWars/src/net/davidrobles/mauler/planetwars/PWFleet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/PlanetWars/src/net/davidrobles/mauler/planetwars/PWFleetSortByNumShips.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/PlanetWars/src/net/davidrobles/mauler/planetwars/PWFleetSortByTurnsRemaining.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/PlanetWars/src/net/davidrobles/mauler/planetwars/PWFrame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/PlanetWars/src/net/davidrobles/mauler/planetwars/PWGame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/PlanetWars/src/net/davidrobles/mauler/planetwars/PWGameObserver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/PlanetWars/src/net/davidrobles/mauler/planetwars/PWGameState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/PlanetWars/src/net/davidrobles/mauler/planetwars/PWOrder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/PlanetWars/src/net/davidrobles/mauler/planetwars/PWPlan.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/PlanetWars/src/net/davidrobles/mauler/planetwars/PWPlanet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/PlanetWars/src/net/davidrobles/mauler/planetwars/PWPlanetSortByDistance.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/PlanetWars/src/net/davidrobles/mauler/planetwars/PWPlanetSortByDistanceAll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/PlanetWars/src/net/davidrobles/mauler/planetwars/PWPlanetSortByDistanceToPoint.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/PlanetWars/src/net/davidrobles/mauler/planetwars/PWPlanetSortByGrowthRate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/PlanetWars/src/net/davidrobles/mauler/planetwars/PWPlanetSortByNumShips.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/PlanetWars/src/net/davidrobles/mauler/planetwars/PWPoint.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/PlanetWars/src/net/davidrobles/mauler/planetwars/PWRun.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/PlanetWars/src/net/davidrobles/mauler/planetwars/PWView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/PlanetWars/src/net/davidrobles/mauler/planetwars/PWViewGraph.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/players/mc/ParTimedMC.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/PlanetWars/src/net/davidrobles/mauler/planetwars/Planet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/PlanetWars/src/net/davidrobles/mauler/planetwars/PlanetWars.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/players/Player.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/players/PlayersUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ReinforcementLearning/src/net/davidrobles/rl/algorithms/PolicyIteration.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/PriorKnowledgeExp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ReinforcementLearning/src/net/davidrobles/rl/valuefunctions/QFunction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ReinforcementLearning/src/net/davidrobles/rl/valuefunctions/QFunctionObserver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ReinforcementLearning/src/net/davidrobles/rl/algorithms/QLearning.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ReinforcementLearning/src/net/davidrobles/rl/QPair.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ReinforcementLearning/src/net/davidrobles/rl/RLEnv.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ReinforcementLearning/src/net/davidrobles/rl/policies/RLPolicy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/players/RandPlayer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/OthelloPlay/src/net/davidrobles/mauler/othello/ef/RandomEF.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ReinforcementLearning/src/net/davidrobles/rl/policies/RandomPolicy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/core/RoundRobin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/SaveNTuples.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/ga/ScoredNTS.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/core/Series.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/SimsPerTime.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/core/util/SpeedTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ReinforcementLearning/src/net/davidrobles/rl/StochasticGame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ReinforcementLearning/src/net/davidrobles/rl/policies/StochasticPolicy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/OthelloPlay/src/net/davidrobles/mauler/othello/TD0.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/TicTacToePlay/src/net/davidrobles/shogun/tictactoe/TTTRun.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ReinforcementLearning/src/net/davidrobles/rl/policies/TabularPolicy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ReinforcementLearning/src/net/davidrobles/rl/valuefunctions/TabularQFunction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ReinforcementLearning/src/net/davidrobles/rl/algorithms/TabularSARSA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ReinforcementLearning/src/net/davidrobles/rl/algorithms/TabularSARSALambda.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ReinforcementLearning/src/net/davidrobles/rl/algorithms/TabularTD0.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ReinforcementLearning/src/net/davidrobles/rl/algorithms/TabularTDLambda.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ReinforcementLearning/src/net/davidrobles/rl/valuefunctions/TabularVFunction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Utils/src/net/davidrobles/util/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/OthelloPlay/test/net/davidrobles/mauler/othello/wpc/TestNumStones.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/OthelloPlay/test/net/davidrobles/mauler/othello/wpc/TestStageRanges.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/OthelloPlay/test/net/davidrobles/mauler/othello/wpc/TestStonesToStages.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/OthelloPlay/test/net/davidrobles/mauler/othello/wpc/TestWPC.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/OthelloPlay/test/net/davidrobles/mauler/othello/wpc/TestWPCStages.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/TicTacToePlay/src/net/davidrobles/shogun/tictactoe/TicGUI.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/TicTacToe/src/net/davidrobles/mauler/tictactoe/TicTacToe.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/TicTacToe/src/net/davidrobles/mauler/tictactoe/TicTacToeTableModel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/TicTacToe/test/net/davidrobles/mauler/tictactoe/TicTacToeTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/TicTacToe/src/net/davidrobles/mauler/tictactoe/TicTacToeView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/TicTacToePlay/src/net/davidrobles/shogun/tictactoe/TicUF.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/players/mcts/tree/TreePolicy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Tron/src/net/davidrobles/mauler/tron/Tron.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/players/mcts/tree/UCB1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/players/mcts/UCT.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/players/mcts/enh/UCTNoRollout.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/players/mcts/enh/UCTPrior.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/players/UtilFunc.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/OthelloPlay/src/net/davidrobles/mauler/othello/ef/UtilityWrapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ReinforcementLearning/src/net/davidrobles/rl/valuefunctions/VFunction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ReinforcementLearning/src/net/davidrobles/rl/valuefunctions/VFunctionObserver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ReinforcementLearning/src/net/davidrobles/rl/algorithms/ValueIteration.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/OthelloPlay/src/net/davidrobles/mauler/othello/ef/wpc/WPC.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/WPCLearning.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/OthelloPlay/src/net/davidrobles/mauler/othello/ef/wpc/WPCStages.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/OthelloPlay/src/net/davidrobles/mauler/othello/ef/wpc/WPCType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/OthelloPlay/src/net/davidrobles/mauler/othello/ef/wpc/WPCUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/OthelloPlay/src/net/davidrobles/mauler/othello/xof/XOFReader.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Breakthrough/src/dr/games/breakthrough/Breakthrough.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Breakthrough/src/dr/games/breakthrough/BreakthroughTableModel.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Breakthrough/src/dr/games/breakthrough/BreakthroughView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Breakthrough/test/dr/games/breakthrough/BreakthroughTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ConnectFour/src/dr/games/connect4/Connect4.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ConnectFour/test/dr/games/connect4/Connect4Test.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/GridWorld/src/dr/gridworld/GWAction.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/GridWorld/src/dr/gridworld/GWRun.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/GridWorld/src/dr/gridworld/GWState.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/GridWorld/src/dr/gridworld/GridWorldEnv.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/GridWorld/src/dr/gridworld/GridWorldMDP.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/GridWorld/src/dr/gridworld/view/GWVView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/GridWorld/src/dr/gridworld/view/GWViewQValues.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/GridWorld/src/dr/gridworld/view/GridWorldView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/GridWorldPlay/src/dr/rl/GWRun.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Havannah/src/dr/games/havannah/Cell.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Havannah/src/dr/games/havannah/CellWrapper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Havannah/src/dr/games/havannah/HCell.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Havannah/src/dr/games/havannah/Havannah.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Havannah/src/dr/games/havannah/HavannahTableModel.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Havannah/src/dr/games/havannah/HavannahUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Havannah/src/dr/games/havannah/HavannahView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/HavannahPlay/src/dr/games/havannah/HavannahRun.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/LinesOfAction/src/dr/games/loa/LOA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/LinesOfAction/src/dr/games/loa/LOARun.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/LinesOfAction/src/dr/games/loa/LOATableModel.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/LinesOfAction/src/dr/games/loa/LOAView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/LinesOfAction/test/dr/games/loa/LOATest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/LinesOfActionPlay/src/dr/games/loa/LOARun.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/core/AbstractGame.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/core/BoardGame.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/core/DummyGame.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/core/Game.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/core/GameExecutor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/core/IncrementalGame.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/core/InstantiablePlayer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/core/Match.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/core/MatchController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/core/MatchControllerObserver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/core/MoveObservable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/core/MoveObserver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/core/Outcome.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/core/RoundRobin.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/core/Series.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/core/util/GamesUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/core/util/SpeedTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/gui/BControllerTimer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/gui/BoardApp.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/gui/GameFrame.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/gui/MatchControllerButtonsView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/gui/MatchControllerSliderView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/gui/MatchControllerTableView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/players/AMAF.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/players/DRPlot.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/players/EpsilonGreedy.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/players/EvalFunc.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/players/GreedyPlayer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/players/Player.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/players/PlayersUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/players/RandPlayer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/players/UtilFunc.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/players/mc/MonteCarlo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/players/mc/ParTimedMC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/players/mcts/GraphvizMCTSObserver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/players/mcts/MCTS.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/players/mcts/MCTSNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/players/mcts/MCTSObserver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/players/mcts/UCT.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/players/mcts/amaf/AMAFNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/players/mcts/enh/MCTSNoRollout.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/players/mcts/enh/MCTSPrior.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/players/mcts/enh/UCTNoRollout.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/players/mcts/enh/UCTPrior.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/players/mcts/parallel/MCTSRootP.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/players/mcts/tree/GreedyTreePolicy.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/players/mcts/tree/TreePolicy.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/players/mcts/tree/UCB1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/players/minimax/AlphaBeta.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/players/minimax/DepthLimitedSearch.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/players/minimax/IterDeep.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/players/minimax/Minimax.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/players/minimax/MoveScore.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/src/dr/games/players/minimax/Negamax.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Mauler/test/dr/games/core/GameTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Othello/src/dr/games/othello/Othello.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Othello/src/dr/games/othello/OthelloTableModel.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Othello/src/dr/games/othello/OthelloUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Othello/src/dr/games/othello/OthelloView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Othello/test/dr/games/othello/OthelloTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/OthelloPlay/src/dr/games/othello/LinearEF.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/OthelloPlay/src/dr/games/othello/OthelloGUI.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/OthelloPlay/src/dr/games/othello/OthelloRun.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/OthelloPlay/src/dr/games/othello/TD0.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/OthelloPlay/src/dr/games/othello/ef/EvalFuncFitness.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/OthelloPlay/src/dr/games/othello/ef/RandomEF.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/OthelloPlay/src/dr/games/othello/ef/UtilityWrapper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/OthelloPlay/src/dr/games/othello/ef/ntuples/NTDirection.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/OthelloPlay/src/dr/games/othello/ef/ntuples/NTReflection.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/OthelloPlay/src/dr/games/othello/ef/ntuples/NTTransform.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/OthelloPlay/src/dr/games/othello/ef/ntuples/NTUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/OthelloPlay/src/dr/games/othello/ef/ntuples/NTuple.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/OthelloPlay/src/dr/games/othello/ef/ntuples/NTupleSystem.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/OthelloPlay/src/dr/games/othello/ef/wpc/WPC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/OthelloPlay/src/dr/games/othello/ef/wpc/WPCStages.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/OthelloPlay/src/dr/games/othello/ef/wpc/WPCType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/OthelloPlay/src/dr/games/othello/ef/wpc/WPCUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/OthelloPlay/src/dr/games/othello/xof/XOFReader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/OthelloPlay/test/dr/games/othello/wpc/TestNumStones.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/OthelloPlay/test/dr/games/othello/wpc/TestStageRanges.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/OthelloPlay/test/dr/games/othello/wpc/TestStonesToStages.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/OthelloPlay/test/dr/games/othello/wpc/TestWPC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/OthelloPlay/test/dr/games/othello/wpc/TestWPCStages.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/PlanetWars/src/dr/games/planetwars/Fleet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/PlanetWars/src/dr/games/planetwars/MyBot.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/PlanetWars/src/dr/games/planetwars/MyBot2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/PlanetWars/src/dr/games/planetwars/MyBot3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/PlanetWars/src/dr/games/planetwars/PWAdapter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/PlanetWars/src/dr/games/planetwars/PWBot.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/PlanetWars/src/dr/games/planetwars/PWBot23.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/PlanetWars/src/dr/games/planetwars/PWBotDR.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/PlanetWars/src/dr/games/planetwars/PWBotDef.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/PlanetWars/src/dr/games/planetwars/PWBotHC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/PlanetWars/src/dr/games/planetwars/PWBotMC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/PlanetWars/src/dr/games/planetwars/PWBotTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/PlanetWars/src/dr/games/planetwars/PWBotWanstein.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/PlanetWars/src/dr/games/planetwars/PWFleet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/PlanetWars/src/dr/games/planetwars/PWFleetSortByNumShips.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/PlanetWars/src/dr/games/planetwars/PWFleetSortByTurnsRemaining.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/PlanetWars/src/dr/games/planetwars/PWFrame.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/PlanetWars/src/dr/games/planetwars/PWGame.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/PlanetWars/src/dr/games/planetwars/PWGameObserver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/PlanetWars/src/dr/games/planetwars/PWGameState.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/PlanetWars/src/dr/games/planetwars/PWOrder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/PlanetWars/src/dr/games/planetwars/PWPlan.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/PlanetWars/src/dr/games/planetwars/PWPlanet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/PlanetWars/src/dr/games/planetwars/PWPlanetSortByDistance.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/PlanetWars/src/dr/games/planetwars/PWPlanetSortByDistanceAll.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/PlanetWars/src/dr/games/planetwars/PWPlanetSortByDistanceToPoint.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/PlanetWars/src/dr/games/planetwars/PWPlanetSortByGrowthRate.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/PlanetWars/src/dr/games/planetwars/PWPlanetSortByNumShips.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/PlanetWars/src/dr/games/planetwars/PWPoint.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/PlanetWars/src/dr/games/planetwars/PWRun.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/PlanetWars/src/dr/games/planetwars/PWView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/PlanetWars/src/dr/games/planetwars/PWViewGraph.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/PlanetWars/src/dr/games/planetwars/Planet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/PlanetWars/src/dr/games/planetwars/PlanetWars.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ReinforcementLearning/src/dr/rl/Learner.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ReinforcementLearning/src/dr/rl/MDP.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ReinforcementLearning/src/dr/rl/MDPObserver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ReinforcementLearning/src/dr/rl/MDPUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ReinforcementLearning/src/dr/rl/QPair.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ReinforcementLearning/src/dr/rl/RLEnv.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ReinforcementLearning/src/dr/rl/StochasticGame.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ReinforcementLearning/src/dr/rl/algorithms/DPPolicyIteration.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ReinforcementLearning/src/dr/rl/algorithms/FirstVisit.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ReinforcementLearning/src/dr/rl/algorithms/FirstVisitMC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ReinforcementLearning/src/dr/rl/algorithms/PolicyIteration.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ReinforcementLearning/src/dr/rl/algorithms/QLearning.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ReinforcementLearning/src/dr/rl/algorithms/TabularSARSA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ReinforcementLearning/src/dr/rl/algorithms/TabularSARSALambda.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ReinforcementLearning/src/dr/rl/algorithms/TabularTD0.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ReinforcementLearning/src/dr/rl/algorithms/TabularTDLambda.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ReinforcementLearning/src/dr/rl/algorithms/ValueIteration.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ReinforcementLearning/src/dr/rl/policies/EpsilonGreedy.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ReinforcementLearning/src/dr/rl/policies/GreedyPolicy.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ReinforcementLearning/src/dr/rl/policies/RLPolicy.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ReinforcementLearning/src/dr/rl/policies/RandomPolicy.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ReinforcementLearning/src/dr/rl/policies/StochasticPolicy.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ReinforcementLearning/src/dr/rl/policies/TabularPolicy.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ReinforcementLearning/src/dr/rl/valuefunctions/QFunction.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ReinforcementLearning/src/dr/rl/valuefunctions/QFunctionObserver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ReinforcementLearning/src/dr/rl/valuefunctions/TabularQFunction.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ReinforcementLearning/src/dr/rl/valuefunctions/TabularVFunction.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ReinforcementLearning/src/dr/rl/valuefunctions/VFunction.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ReinforcementLearning/src/dr/rl/valuefunctions/VFunctionObserver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/All.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/AllExperiments.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/BasicTests.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/Experiments.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/LogistelloPatterns.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/MCTSExperiments.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/MCTSParallelTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/MCTS_WPC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/MCvsMCTS.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/NTSComparisons.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/NTSLearning.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/NTSSpeedTests.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/NTSinMCTS.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/OptimalPriorKnowledge.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/OthelloVF.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/PriorKnowledgeExp.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/SaveNTuples.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/SimsPerTime.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/WPCLearning.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/ga/FitProp.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/ga/GANTuples.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/ga/ScoredNTS.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch5/MctsExploration.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch7/MCTSReplacingDefault.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/ThesisExperiments/test/dr/thesis/othello/ch4/ga/GANTuplesTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/TicTacToe/src/dr/games/tictactoe/TicTacToe.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/TicTacToe/src/dr/games/tictactoe/TicTacToeTableModel.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/TicTacToe/src/dr/games/tictactoe/TicTacToeView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/TicTacToe/test/dr/games/tictactoe/TicTacToeTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/TicTacToePlay/src/dr/shogun/tictactoe/ExecutorTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/TicTacToePlay/src/dr/shogun/tictactoe/GraphvizRight.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/TicTacToePlay/src/dr/shogun/tictactoe/MCFailFinder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/TicTacToePlay/src/dr/shogun/tictactoe/TTTRun.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/TicTacToePlay/src/dr/shogun/tictactoe/TicGUI.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/TicTacToePlay/src/dr/shogun/tictactoe/TicUF.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Tron/src/dr/games/tron/Tron.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Utils/src/dr/util/DRFrame.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Utils/src/dr/util/DRMarkdown.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Utils/src/dr/util/DRUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/Utils/src/dr/util/Test.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/Domineering/src/net/davidrobles/mauler/domineering/Domineering.java" afterPath="$PROJECT_DIR$/modules/Domineering/src/net/davidrobles/mauler/domineering/Domineering.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/LinesOfAction/src/net/davidrobles/mauler/loa/LOA.java" afterPath="$PROJECT_DIR$/modules/LinesOfAction/src/net/davidrobles/mauler/loa/LOA.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JSandbox.iws" />
@@ -459,12 +29,49 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="AbstractGame.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/core/AbstractGame.java">
+      <file leaf-file-name="LOA.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modules/LinesOfAction/src/net/davidrobles/mauler/loa/LOA.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0625" vertical-offset="0" max-vertical-offset="960">
-              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-              <folding />
+            <state vertical-scroll-proportion="0.890625" vertical-offset="0" max-vertical-offset="14880">
+              <caret line="63" column="34" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
+              <folding>
+                <element signature="e#2053#2054#0" expanded="true" />
+                <element signature="e#2076#2077#0" expanded="true" />
+                <element signature="e#3397#3398#0" expanded="true" />
+                <element signature="e#3454#3455#0" expanded="true" />
+                <element signature="e#4258#4259#0" expanded="true" />
+                <element signature="e#4309#4310#0" expanded="true" />
+                <element signature="e#5122#5123#0" expanded="true" />
+                <element signature="e#5173#5174#0" expanded="true" />
+                <element signature="e#15220#15221#0" expanded="true" />
+                <element signature="e#15279#15280#0" expanded="true" />
+                <element signature="e#16903#16904#0" expanded="true" />
+                <element signature="e#16946#16947#0" expanded="true" />
+                <element signature="e#17107#17108#0" expanded="true" />
+                <element signature="e#17147#17148#0" expanded="true" />
+                <element signature="e#17907#17908#0" expanded="true" />
+                <element signature="e#17992#17993#0" expanded="true" />
+                <element signature="e#20074#20082#0" expanded="true" />
+                <element signature="e#20697#20698#0" expanded="true" />
+                <element signature="e#20727#20728#0" expanded="true" />
+                <element signature="e#20828#20836#0" expanded="true" />
+                <element signature="e#21109#21110#0" expanded="true" />
+                <element signature="e#21144#21145#0" expanded="true" />
+                <element signature="e#21196#21197#0" expanded="true" />
+                <element signature="e#21220#21221#0" expanded="true" />
+                <element signature="e#21269#21270#0" expanded="true" />
+                <element signature="e#21309#21310#0" expanded="true" />
+                <element signature="e#21364#21365#0" expanded="true" />
+                <element signature="e#21395#21396#0" expanded="true" />
+                <element signature="e#21444#21445#0" expanded="true" />
+                <element signature="e#21475#21476#0" expanded="true" />
+                <element signature="e#23029#23030#0" expanded="true" />
+                <element signature="e#23061#23062#0" expanded="true" />
+                <element signature="e#27475#27476#0" expanded="true" />
+                <element signature="e#27539#27540#0" expanded="true" />
+                <element signature="e#27851#27852#0" expanded="true" />
+                <element signature="e#27895#27896#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -512,6 +119,12 @@
         <option value="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/WPCLearning.java" />
         <option value="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch7/MCTSReplacingDefault.java" />
         <option value="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch5/MctsExploration.java" />
+        <option value="$PROJECT_DIR$/modules/TicTacToePlay/src/net/davidrobles/shogun/tictactoe/TicUF.java" />
+        <option value="$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/NTSSpeedTests.java" />
+        <option value="$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/MCTS_WPC.java" />
+        <option value="$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/NTSComparisons.java" />
+        <option value="$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch7/MCTSReplacingDefault.java" />
+        <option value="$PROJECT_DIR$/modules/LinesOfAction/src/net/davidrobles/mauler/loa/LOA.java" />
       </list>
     </option>
   </component>
@@ -561,7 +174,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Mauler" />
+              <option name="myItemId" value="LinesOfAction" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -571,29 +184,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Mauler" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="net" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="davidrobles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mauler" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JSandbox" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Mauler" />
+              <option name="myItemId" value="LinesOfAction" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -609,18 +200,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
+              <option name="myItemId" value="loa" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JSandbox" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Breakthrough" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -701,6 +282,22 @@
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
     <property name="FullScreen" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="253" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="262" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="266" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="1060" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="259" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="260" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="264" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1058" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -720,7 +317,7 @@
       <recent name="$PROJECT_DIR$/modules/Utils" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OthelloGUI">
+  <component name="RunManager" selected="Application.OthelloGUI (1)">
     <configuration default="false" name="GWRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -773,6 +370,28 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="dr.games.othello.OthelloGUI" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="OthelloPlay" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="OthelloGUI (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="net.davidrobles.mauler.othello.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="net.davidrobles.mauler.othello.OthelloGUI" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1030,16 +649,18 @@
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Application.GWRun" />
       <item index="1" class="java.lang.String" itemvalue="Application.GWRun (1)" />
       <item index="2" class="java.lang.String" itemvalue="Application.OthelloGUI" />
+      <item index="3" class="java.lang.String" itemvalue="Application.OthelloGUI (1)" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.OthelloGUI" />
-        <item index="1" class="java.lang.String" itemvalue="Application.GWRun" />
-        <item index="2" class="java.lang.String" itemvalue="Application.GWRun (1)" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.OthelloGUI (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.OthelloGUI" />
+        <item index="2" class="java.lang.String" itemvalue="Application.GWRun" />
+        <item index="3" class="java.lang.String" itemvalue="Application.GWRun (1)" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1059,6 +680,7 @@
       <updated>1426561636944</updated>
       <workItem from="1426561638349" duration="8097000" />
       <workItem from="1426601514294" duration="1038000" />
+      <workItem from="1426609159808" duration="503000" />
     </task>
     <task id="LOCAL-00001" summary="Add ThesisExperiments module">
       <created>1426601982113</created>
@@ -1072,11 +694,17 @@
       <option name="project" value="LOCAL" />
       <updated>1426602061766</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Fix enumerations imports">
+      <created>1426609406629</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1426609406629</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9135000" />
+    <option name="totallyTimeSpent" value="9638000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="23" width="1871" height="1057" extended-state="6" />
@@ -1088,26 +716,26 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299595" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299595" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299595" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33906883" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28647783" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21699625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299595" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299595" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1128,7 +756,8 @@
     </option>
     <MESSAGE value="Add ThesisExperiments module" />
     <MESSAGE value="Add ThesisExperiments tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add ThesisExperiments tests" />
+    <MESSAGE value="Fix enumerations imports" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix enumerations imports" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1141,48 +770,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/modules/TicTacToePlay/src/net/davidrobles/shogun/tictactoe/TicGUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.65625" vertical-offset="0" max-vertical-offset="960">
-          <caret line="42" column="7" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/TicTacToePlay/src/net/davidrobles/shogun/tictactoe/ExecutorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.546875" vertical-offset="0" max-vertical-offset="960">
-          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/TicTacToePlay/src/net/davidrobles/shogun/tictactoe/TicUF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.546875" vertical-offset="0" max-vertical-offset="960">
-          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/OthelloPlay/src/net/davidrobles/mauler/othello/ef/wpc/WPC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.546875" vertical-offset="0" max-vertical-offset="3090">
-          <caret line="44" column="7" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/OthelloPlay/src/net/davidrobles/mauler/othello/ef/RandomEF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.171875" vertical-offset="0" max-vertical-offset="960">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/OthelloPlay/src/net/davidrobles/mauler/othello/ef/ntuples/NTUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7097792" vertical-offset="0" max-vertical-offset="4575">
@@ -1203,14 +790,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/OthelloPlay/test/net/davidrobles/mauler/othello/wpc/TestNumStones.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.359375" vertical-offset="0" max-vertical-offset="960">
-          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/Havannah/src/net/davidrobles/mauler/havannah/Cell.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.09375" vertical-offset="0" max-vertical-offset="960">
@@ -1223,14 +802,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.28125" vertical-offset="0" max-vertical-offset="4080">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/LinesOfAction/src/net/davidrobles/mauler/loa/LOA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1875" vertical-offset="0" max-vertical-offset="13560">
-          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
           <folding />
         </state>
       </provider>
@@ -1250,8 +821,8 @@
         <state vertical-scroll-proportion="0.234375" vertical-offset="0" max-vertical-offset="1125">
           <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#932#942#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#932#942#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1263,14 +834,6 @@
           <folding>
             <element signature="imports" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/OthelloPlay/src/net/davidrobles/mauler/othello/OthelloGUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.296875" vertical-offset="0" max-vertical-offset="1140">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1313,7 +876,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.46875" vertical-offset="0" max-vertical-offset="7035">
           <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1369,8 +931,8 @@
         <state vertical-scroll-proportion="0.0704" vertical-offset="1" max-vertical-offset="1305">
           <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
           <folding>
-            <element signature="e#2310#2327#0" expanded="true" />
-            <element signature="e#2563#2572#0" expanded="true" />
+            <element signature="e#2310#2327#0" expanded="false" />
+            <element signature="e#2563#2572#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1452,22 +1014,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/MCTS_WPC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1392" vertical-offset="3" max-vertical-offset="3000">
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-          <folding>
-            <element signature="e#1099#1116#0" expanded="true" />
-            <element signature="e#2314#2331#0" expanded="true" />
-            <element signature="e#3522#3539#0" expanded="true" />
-            <element signature="e#4736#4753#0" expanded="true" />
-            <element signature="e#5551#5568#0" expanded="true" />
-            <element signature="e#6198#6215#0" expanded="true" />
-            <element signature="e#7217#7234#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/OptimalPriorKnowledge.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.072" vertical-offset="0" max-vertical-offset="900">
@@ -1506,14 +1052,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/NTSSpeedTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.048" vertical-offset="0" max-vertical-offset="690">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/PriorKnowledgeExp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0896" vertical-offset="4" max-vertical-offset="3030">
@@ -1543,20 +1081,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/NTSComparisons.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3328" vertical-offset="137" max-vertical-offset="2025">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1278#1295#0" expanded="true" />
-            <element signature="e#1866#1883#0" expanded="true" />
-            <element signature="e#2345#2362#0" expanded="true" />
-            <element signature="e#2761#2778#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/MCvsMCTS.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3328" vertical-offset="77" max-vertical-offset="2280">
@@ -1569,39 +1093,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/MCTSExperiments.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3328" vertical-offset="137" max-vertical-offset="4170">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1306#1323#0" expanded="true" />
-            <element signature="e#2092#2109#0" expanded="true" />
-            <element signature="e#3290#3307#0" expanded="true" />
-            <element signature="e#3658#3675#0" expanded="true" />
-            <element signature="e#4956#4973#0" expanded="true" />
-            <element signature="e#5312#5329#0" expanded="true" />
-            <element signature="e#7311#7328#0" expanded="true" />
-            <element signature="e#7553#7570#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch7/MCTSReplacingDefault.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.072" vertical-offset="0" max-vertical-offset="2580">
-          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-          <folding>
-            <element signature="e#1579#1596#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/ThesisExperiments/ThesisExperiments.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.234375" vertical-offset="0" max-vertical-offset="960">
           <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1610,9 +1105,9 @@
         <state vertical-scroll-proportion="0.1875" vertical-offset="0" max-vertical-offset="1020">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#561#579#0" expanded="true" />
-            <element signature="e#1719#1736#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#561#579#0" expanded="false" />
+            <element signature="e#1719#1736#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1627,9 +1122,179 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/core/AbstractGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0625" vertical-offset="0" max-vertical-offset="960">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.48" vertical-offset="0" max-vertical-offset="625">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/Mauler/src/net/davidrobles/mauler/core/Outcome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.203125" vertical-offset="0" max-vertical-offset="960">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/OthelloPlay/src/net/davidrobles/mauler/othello/ef/wpc/WPC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.296" vertical-offset="2465" max-vertical-offset="3090">
+          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/TicTacToePlay/src/net/davidrobles/shogun/tictactoe/TicUF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36" vertical-offset="0" max-vertical-offset="645">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/OthelloPlay/src/net/davidrobles/mauler/othello/ef/RandomEF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.096" vertical-offset="0" max-vertical-offset="625">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/OthelloPlay/test/net/davidrobles/mauler/othello/wpc/TestNumStones.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.648" vertical-offset="0" max-vertical-offset="675">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/NTSSpeedTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33123028" vertical-offset="0" max-vertical-offset="690">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/NTSComparisons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.336" vertical-offset="105" max-vertical-offset="2025">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="e#1341#1358#0" expanded="true" />
+            <element signature="e#1929#1946#0" expanded="true" />
+            <element signature="e#2408#2425#0" expanded="true" />
+            <element signature="e#2824#2841#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/MCTS_WPC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3376" vertical-offset="104" max-vertical-offset="3000">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="e#1162#1179#0" expanded="true" />
+            <element signature="e#2377#2394#0" expanded="true" />
+            <element signature="e#3585#3602#0" expanded="true" />
+            <element signature="e#4799#4816#0" expanded="true" />
+            <element signature="e#5614#5631#0" expanded="true" />
+            <element signature="e#6261#6278#0" expanded="true" />
+            <element signature="e#7280#7297#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch7/MCTSReplacingDefault.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3328" vertical-offset="572" max-vertical-offset="2580">
+          <caret line="52" column="64" selection-start-line="52" selection-start-column="64" selection-end-line="52" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ThesisExperiments/src/net/davidrobles/thesis/othello/ch4/MCTSExperiments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6458333" vertical-offset="25" max-vertical-offset="4155">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1306#1323#0" expanded="true" />
+            <element signature="e#2092#2109#0" expanded="true" />
+            <element signature="e#3290#3307#0" expanded="true" />
+            <element signature="e#3658#3675#0" expanded="true" />
+            <element signature="e#4956#4973#0" expanded="true" />
+            <element signature="e#5312#5329#0" expanded="true" />
+            <element signature="e#7311#7328#0" expanded="true" />
+            <element signature="e#7553#7570#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/OthelloPlay/src/net/davidrobles/mauler/othello/OthelloGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34375" vertical-offset="0" max-vertical-offset="1140">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ReinforcementLearning/src/net/davidrobles/rl/RLEnv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.625" vertical-offset="0" max-vertical-offset="960">
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/LinesOfAction/src/net/davidrobles/mauler/loa/LOA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.890625" vertical-offset="0" max-vertical-offset="14880">
+          <caret line="63" column="34" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
+          <folding>
+            <element signature="e#2053#2054#0" expanded="true" />
+            <element signature="e#2076#2077#0" expanded="true" />
+            <element signature="e#3397#3398#0" expanded="true" />
+            <element signature="e#3454#3455#0" expanded="true" />
+            <element signature="e#4258#4259#0" expanded="true" />
+            <element signature="e#4309#4310#0" expanded="true" />
+            <element signature="e#5122#5123#0" expanded="true" />
+            <element signature="e#5173#5174#0" expanded="true" />
+            <element signature="e#15220#15221#0" expanded="true" />
+            <element signature="e#15279#15280#0" expanded="true" />
+            <element signature="e#16903#16904#0" expanded="true" />
+            <element signature="e#16946#16947#0" expanded="true" />
+            <element signature="e#17107#17108#0" expanded="true" />
+            <element signature="e#17147#17148#0" expanded="true" />
+            <element signature="e#17907#17908#0" expanded="true" />
+            <element signature="e#17992#17993#0" expanded="true" />
+            <element signature="e#20074#20082#0" expanded="true" />
+            <element signature="e#20697#20698#0" expanded="true" />
+            <element signature="e#20727#20728#0" expanded="true" />
+            <element signature="e#20828#20836#0" expanded="true" />
+            <element signature="e#21109#21110#0" expanded="true" />
+            <element signature="e#21144#21145#0" expanded="true" />
+            <element signature="e#21196#21197#0" expanded="true" />
+            <element signature="e#21220#21221#0" expanded="true" />
+            <element signature="e#21269#21270#0" expanded="true" />
+            <element signature="e#21309#21310#0" expanded="true" />
+            <element signature="e#21364#21365#0" expanded="true" />
+            <element signature="e#21395#21396#0" expanded="true" />
+            <element signature="e#21444#21445#0" expanded="true" />
+            <element signature="e#21475#21476#0" expanded="true" />
+            <element signature="e#23029#23030#0" expanded="true" />
+            <element signature="e#23061#23062#0" expanded="true" />
+            <element signature="e#27475#27476#0" expanded="true" />
+            <element signature="e#27539#27540#0" expanded="true" />
+            <element signature="e#27851#27852#0" expanded="true" />
+            <element signature="e#27895#27896#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
