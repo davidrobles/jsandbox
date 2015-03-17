@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/modules/OthelloPlay/OthelloPlay.iml" filepath="$PROJECT_DIR$/modules/OthelloPlay/OthelloPlay.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/PlanetWars/PlanetWars.iml" filepath="$PROJECT_DIR$/modules/PlanetWars/PlanetWars.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/ReinforcementLearning/ReinforcementLearning.iml" filepath="$PROJECT_DIR$/modules/ReinforcementLearning/ReinforcementLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/ThesisExperiments/ThesisExperiments.iml" filepath="$PROJECT_DIR$/modules/ThesisExperiments/ThesisExperiments.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/TicTacToe/TicTacToe.iml" filepath="$PROJECT_DIR$/modules/TicTacToe/TicTacToe.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/TicTacToePlay/TicTacToePlay.iml" filepath="$PROJECT_DIR$/modules/TicTacToePlay/TicTacToePlay.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/Tron/Tron.iml" filepath="$PROJECT_DIR$/modules/Tron/Tron.iml" />
