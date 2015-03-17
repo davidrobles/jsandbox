@@ -19,6 +19,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import static net.davidrobles.thesis.othello.ch4.OthelloVF.*;
+
 public class NTSComparisons
 {
     static NTupleSystem nts = NTUtil.load("best-1");

@@ -9,6 +9,8 @@ import net.davidrobles.thesis.othello.ch4.PriorKnowledgeExp;
 
 import java.util.*;
 
+import static net.davidrobles.thesis.othello.ch4.OthelloVF.*;
+
 public class MCTSReplacingDefault
 {
 

@@ -9,6 +9,8 @@ import net.davidrobles.mauler.players.EvalFunc;
 import java.util.HashMap;
 import java.util.Map;
 
+import static net.davidrobles.thesis.othello.ch4.OthelloVF.*;
+
 public class NTSSpeedTests
 {
     static void RunAll()

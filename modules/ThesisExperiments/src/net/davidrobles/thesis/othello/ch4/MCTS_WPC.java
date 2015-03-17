@@ -19,6 +19,8 @@ import net.davidrobles.mauler.players.mcts.tree.UCB1;
 import java.util.ArrayList;
 import java.util.List;
 
+import static net.davidrobles.thesis.othello.ch4.OthelloVF.*;
+
 public class MCTS_WPC
 {
     public static void evaluateUtilityFunctionsInMCTS()

@@ -2,7 +2,8 @@ package net.davidrobles.shogun.tictactoe;
 
 import net.davidrobles.mauler.players.EvalFunc;
 import net.davidrobles.mauler.tictactoe.TicTacToe;
-import net.davidrobles.mauler.core.Outcome;
+
+import static net.davidrobles.mauler.core.Outcome.*;
 
 public class TicUF implements EvalFunc<TicTacToe> {
 
@@ -22,9 +23,9 @@ public class TicUF implements EvalFunc<TicTacToe> {
     public double eval(TicTacToe ticTacToe, int player) {
         if (ticTacToe.isOver()) {
             switch (ticTacToe.getOutcome()[player]) {
-                case Outcome.WIN:  return win;
-                case Outcome.DRAW: return draw;
-                case Outcome.LOSS: return loss;
+                case WIN:  return win;
+                case DRAW: return draw;
+                case LOSS: return loss;
             }
         }
         throw new Error("The utility function must be called only at the end of the game.");
