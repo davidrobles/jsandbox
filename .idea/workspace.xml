@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d0964ec-36a3-4b3c-8855-9e08a4d70e44" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/All.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/AllExperiments.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/BasicTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/Experiments.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/ga/FitProp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/ga/GANTuples.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/LogistelloPatterns.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/MCTSExperiments.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/MCTSParallelTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch7/MCTSReplacingDefault.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/MCTS_WPC.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/MCvsMCTS.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch5/MctsExploration.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/NTSComparisons.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/NTSLearning.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/NTSSpeedTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/NTSinMCTS.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/OptimalPriorKnowledge.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/OthelloVF.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/PriorKnowledgeExp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/SaveNTuples.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/ga/ScoredNTS.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/SimsPerTime.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/ThesisExperiments.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/src/dr/thesis/othello/ch4/WPCLearning.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/test/dr/thesis/othello/ch4/ga/GANTuplesTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/ThesisExperiments/ThesisExperiments.iml" afterPath="$PROJECT_DIR$/modules/ThesisExperiments/ThesisExperiments.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JSandbox.iws" />
@@ -54,7 +29,18 @@
     <favorites_list name="JSandbox" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="GANTuplesTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modules/ThesisExperiments/test/dr/thesis/othello/ch4/ga/GANTuplesTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.546875" vertical-offset="0" max-vertical-offset="1095">
+              <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -180,97 +166,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dr" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thesis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="othello" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ch7" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JSandbox" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ThesisExperiments" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dr" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thesis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="othello" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ch5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JSandbox" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ThesisExperiments" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dr" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thesis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="othello" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ch4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JSandbox" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ThesisExperiments" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -321,11 +217,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/modules/ThesisExperiments" />
       <recent name="$PROJECT_DIR$/modules/ThesisExperiments/src" />
       <recent name="$PROJECT_DIR$/modules/PlanetWars" />
       <recent name="$PROJECT_DIR$/modules/PlanetWars/src" />
       <recent name="$PROJECT_DIR$/modules/Breakthrough/src" />
-      <recent name="$PROJECT_DIR$/modules/Tron/src" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="dr.games" />
@@ -675,16 +571,23 @@
       <option name="number" value="Default" />
       <updated>1426561636944</updated>
       <workItem from="1426561638349" duration="8097000" />
-      <workItem from="1426601514294" duration="432000" />
+      <workItem from="1426601514294" duration="536000" />
     </task>
+    <task id="LOCAL-00001" summary="Add ThesisExperiments module">
+      <created>1426601982113</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1426601982113</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8529000" />
+    <option name="totallyTimeSpent" value="8633000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="23" width="1871" height="1057" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -705,7 +608,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2041689" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28647783" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299595" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -730,6 +633,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Add ThesisExperiments module" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add ThesisExperiments module" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -742,13 +647,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/modules/TicTacToePlay/src/dr/shogun/tictactoe/MCFailFinder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4375" vertical-offset="0" max-vertical-offset="3585">
-          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/TicTacToePlay/src/dr/shogun/tictactoe/GraphvizRight.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6875" vertical-offset="0" max-vertical-offset="960">
@@ -967,7 +865,7 @@
         <state vertical-scroll-proportion="0.072" vertical-offset="0" max-vertical-offset="3870">
           <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
           <folding>
-            <element signature="e#5790#5807#0" expanded="true" />
+            <element signature="e#5790#5807#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1171,7 +1069,7 @@
         <state vertical-scroll-proportion="0.072" vertical-offset="0" max-vertical-offset="2580">
           <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
           <folding>
-            <element signature="e#1533#1550#0" expanded="true" />
+            <element signature="e#1533#1550#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1193,6 +1091,14 @@
             <element signature="e#478#496#0" expanded="true" />
             <element signature="e#1636#1653#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ThesisExperiments/test/dr/thesis/othello/ch4/ga/GANTuplesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.546875" vertical-offset="0" max-vertical-offset="1095">
+          <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>
