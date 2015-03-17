@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/modules/Mauler/Mauler.iml" filepath="$PROJECT_DIR$/modules/Mauler/Mauler.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/Othello/Othello.iml" filepath="$PROJECT_DIR$/modules/Othello/Othello.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/OthelloPlay/OthelloPlay.iml" filepath="$PROJECT_DIR$/modules/OthelloPlay/OthelloPlay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/PlanetWars/PlanetWars.iml" filepath="$PROJECT_DIR$/modules/PlanetWars/PlanetWars.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/ReinforcementLearning/ReinforcementLearning.iml" filepath="$PROJECT_DIR$/modules/ReinforcementLearning/ReinforcementLearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/TicTacToe/TicTacToe.iml" filepath="$PROJECT_DIR$/modules/TicTacToe/TicTacToe.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/TicTacToePlay/TicTacToePlay.iml" filepath="$PROJECT_DIR$/modules/TicTacToePlay/TicTacToePlay.iml" />
