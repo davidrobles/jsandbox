@@ -1,7 +1,7 @@
 package net.davidrobles.mauler.domineering;
 
-import dr.games.core.Game;
-import dr.games.core.Outcome;
+import net.davidrobles.mauler.core.Game;
+import net.davidrobles.mauler.core.Outcome;
 
 import java.util.ArrayList;
 import java.util.Arrays;
