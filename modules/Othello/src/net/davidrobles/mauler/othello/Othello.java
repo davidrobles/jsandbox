@@ -3,6 +3,7 @@ package net.davidrobles.mauler.othello;
 import net.davidrobles.mauler.core.AbstractGame;
 import net.davidrobles.mauler.core.Game;
 import net.davidrobles.mauler.core.Outcome;
+import net.davidrobles.mauler.core.util.SpeedTest;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -815,4 +816,9 @@ public class Othello extends AbstractGame implements Game<Othello> {
     // X  X  X  X  X  X  X  X
     // X  X  X  X  X  X  X  X
     private static final long PASS = -1L;
+
+    public static void main(String[] args) {
+        Othello tic = new Othello();
+        System.out.println(SpeedTest.gameSpeed(tic, 10));
+    }
 }

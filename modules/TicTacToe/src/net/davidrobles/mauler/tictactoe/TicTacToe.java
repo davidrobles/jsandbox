@@ -3,6 +3,7 @@ package net.davidrobles.mauler.tictactoe;
 import net.davidrobles.mauler.core.AbstractGame;
 import net.davidrobles.mauler.core.Game;
 import net.davidrobles.mauler.core.Outcome;
+import net.davidrobles.mauler.core.util.SpeedTest;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -173,4 +174,8 @@ public class TicTacToe extends AbstractGame implements Game<TicTacToe> {
         return new Outcome[] {Outcome.DRAW, Outcome.DRAW};
     }
 
+    public static void main(String[] args) {
+        TicTacToe tic = new TicTacToe();
+        System.out.println(SpeedTest.gameSpeed(tic, 10));
+    }
 }

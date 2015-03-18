@@ -1,10 +1,11 @@
 package net.davidrobles.mauler.core.util;
 
-//import com.google.common.base.Stopwatch;
+import com.google.common.base.Stopwatch;
 import net.davidrobles.mauler.core.Game;
 import net.davidrobles.mauler.players.Player;
 
 import java.util.Random;
+import java.util.concurrent.TimeUnit;
 
 public class SpeedTest
 {
@@ -34,26 +35,20 @@ public class SpeedTest
     }
 
     /**
-     * Calculates the number of dr.mauler per second that can be played in a game..
+     * Calculates the number of games per second that can be played in a game..
      * The timeout should be given in seconds.
      */
-    public static double gameSpeed(Game<?> game, int timeout)
-    {
+    public static double gameSpeed(Game<?> game, int timeout) {
         Random rand = new Random();
-//        Stopwatch stopwatch = new Stopwatch();
-//        stopwatch.start();
+        Stopwatch stopWatch = Stopwatch.createStarted();
         int nGames = 0;
-
-//        while (stopwatch.elapsedTime(TimeUnit.SECONDS) < timeout)
-//        {
+        while (stopWatch.elapsed(TimeUnit.SECONDS) < timeout) {
             game.reset();
-
-            while (!game.isOver())
+            while (!game.isOver()) {
                 game.makeMove(rand.nextInt(game.getNumMoves()));
-
+            }
             nGames++;
-//        }
-
+        }
         return nGames / (double) timeout;
     }
 }
