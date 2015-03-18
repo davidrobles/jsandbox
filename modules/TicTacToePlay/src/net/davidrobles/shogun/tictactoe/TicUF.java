@@ -33,7 +33,7 @@ public class TicUF implements EvalFunc<TicTacToe> {
 
     @Override
     public String toString() {
-        return "Tic-utilFunc";
+        return "Tic-Tac-Toe Utility Function";
     }
 
 }
